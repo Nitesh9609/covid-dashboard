@@ -1,0 +1,9 @@
+.covid-card{
+    border: solid;
+    padding: 20px;
+    background-color: beige;
+}
+
+.covid-card:hover{
+    transform: scale(1.05);
+}
